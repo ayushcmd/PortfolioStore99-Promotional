@@ -13,6 +13,8 @@ A comprehensive architectural specification, product catalog, brand design syste
 
 > **Repository Notice:** This repository contains official promotional planning, architectural specifications, and marketing documentation for PortfolioStore 99. It does **not** house the production storefront application, which is securely maintained in a separate private repository.
 
+**Repository resources:** [Documentation index](#10-documentation-index) · [Contributing](CONTRIBUTING.md) · [Community and support](#14-community--support) · [Security](SECURITY.md) · [Proprietary license](LICENSE)
+
 ---
 
 ## Table of Contents
@@ -31,6 +33,7 @@ A comprehensive architectural specification, product catalog, brand design syste
 - [11. Architectural Boundaries](#11-architectural-boundaries)
 - [12. Implementation Status](#12-implementation-status)
 - [13. License & Proprietary Rights](#13-license--proprietary-rights)
+- [14. Community & Support](#14-community--support)
 
 ---
 
@@ -271,6 +274,29 @@ This repository contains official promotional documentation, architecture specif
 > Furthermore, this repository does **not** grant any rights or licenses to the private PortfolioStore 99 application source code, commercial portfolio templates, customer materials, or commercial products. Third-party trademarks, services, and libraries referenced herein remain the property of their respective owners.
 
 For full legal terms, restrictions, and inquiries, please review the root [LICENSE](LICENSE) file. For questions or written permissions, contact [`portfoliostore99@gmail.com`](mailto:portfoliostore99@gmail.com).
+
+## 14. Community & Support
+
+This public repository welcomes discussion and proposed corrections to its promotional specifications, subject to its **proprietary license and maintainer approval**. It is not the production storefront repository, and this documentation does not grant rights to copy commercial products or private source code.
+
+| Resource | Use it for |
+|---|---|
+| [Contributing guide](CONTRIBUTING.md) | How to suggest documentation changes, verify facts, respect the license, and prepare pull requests |
+| [Support guide](SUPPORT.md) | Customer/order help, documentation questions, and choosing the correct contact channel |
+| [Security policy](SECURITY.md) | Confidential reporting of vulnerabilities and sensitive disclosures |
+| [Code of Conduct](CODE_OF_CONDUCT.md) | Community behavior standards and confidential conduct reporting |
+| [Documentation correction template](.github/ISSUE_TEMPLATE/documentation_bug.md) | Broken links, inaccurate information, and unclear documentation |
+| [Improvement proposal template](.github/ISSUE_TEMPLATE/improvement_proposal.md) | Accessibility, navigation, and specification improvement suggestions |
+| [Pull request template](.github/PULL_REQUEST_TEMPLATE.md) | Required context, validation notes, proprietary-rights checks, and owner-review items |
+| [GitHub Issues](https://github.com/ayushcmd/PortfolioStore99-Promotional/issues) | Track public documentation problems and proposals |
+| [GitHub Discussions](https://github.com/ayushcmd/PortfolioStore99-Promotional/discussions) | Ask general, non-sensitive questions about documentation |
+| [LICENSE](LICENSE) | The repository's proprietary terms and restrictions |
+
+**For purchases, receipts, download access, or commercial support:** contact [portfoliostore99@gmail.com](mailto:portfoliostore99@gmail.com). The current customer policies and purchase terms are published on the [official storefront](https://www.portfoliostore99.in).
+
+**Do not post** payment or order data, account credentials, customer records, proprietary source code, or security vulnerability details in public issues or discussions. Follow [SECURITY.md](SECURITY.md) for private technical reports and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for confidential conduct complaints.
+
+---
 
 ---
 
